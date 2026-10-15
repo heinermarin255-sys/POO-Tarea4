@@ -1,0 +1,4 @@
+ColiseoVirtual|jose|15|Victoria (HP Restante: 15)
+RescateEspacial|jugadoe1|13|Victoria
+RescateEspacial|pedro|9|Victoria
+Ahorcado|emilio|6|Adivino
